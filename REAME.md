@@ -1,3 +1,4 @@
+#MIPS
 This program is designed to simulate the process of a MIPS processor cycle-by-cycle
 
 ---------------------------------------------------------------
